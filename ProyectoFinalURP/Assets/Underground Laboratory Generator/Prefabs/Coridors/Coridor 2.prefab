@@ -580,6 +580,11 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 9010415666537124346, guid: 099601018063a7249a1541205698c9b6,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 9135876660845650581, guid: 099601018063a7249a1541205698c9b6,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -865,6 +870,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010415666537124346, guid: 099601018063a7249a1541205698c9b6,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 9135876660845650581, guid: 099601018063a7249a1541205698c9b6,
         type: 3}
